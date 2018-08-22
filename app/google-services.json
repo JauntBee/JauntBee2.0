@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941586813990",
+    "firebase_url": "https://jauntbee20.firebaseio.com",
+    "project_id": "jauntbee20",
+    "storage_bucket": "jauntbee20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941586813990:android:38fe17a2782f5eac",
+        "android_client_info": {
+          "package_name": "com.application.jauntbee.jauntbee20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941586813990-hec3fgm9eougoq3me6r3vmfo76gbb51o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.jauntbee.jauntbee20",
+            "certificate_hash": "d473cd4f25a3584f31e607e6ebe6ed57a6c55027"
+          }
+        },
+        {
+          "client_id": "941586813990-f9c3c4s53d28mg2tk2654svdcf5rmfu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ74tyNHq_N6_qxog4KN09GjUDLx42CQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941586813990-f9c3c4s53d28mg2tk2654svdcf5rmfu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
